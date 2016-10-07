@@ -1,5 +1,5 @@
 .topbar-item {
-
+display: inline;
 }
 
 .main-page-wrapper {
@@ -12,4 +12,9 @@
 
 .main-page-item {	
   
+}
+
+.top {
+  position: relative;
+  display: inline;
 }
