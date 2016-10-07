@@ -15,11 +15,9 @@ display: inline;
 }
 
 .top {
-  position: relative;
   display: inline;
 }
 
 .topbar {
-  position: relative;
-  display: inline-block;
+/*  display: inline-block;*/
 }
